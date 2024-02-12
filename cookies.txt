@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uclkendra.in	TRUE	/	FALSE	1999999999	PHPSESSID	6484db6c655202eb6402f5f7f17df36a
+
